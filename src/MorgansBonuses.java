@@ -5,6 +5,8 @@
    8/10/2017
 */
 
+import com.sun.xml.internal.bind.v2.TODO;
+
 import java.util.Scanner;
 
 public class MorgansBonuses
@@ -21,7 +23,8 @@ public class MorgansBonuses
 							{85.00, 100.00, 120.00, 140.00, 175.00}};
 
 		int weeks, reviews;
-		
+		//TODO: Add input for weeks and reviews
+		//TODO: Add output for corresponding bonus to weeks with reviews
 	}
 
 }
